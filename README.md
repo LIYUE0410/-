@@ -21,9 +21,9 @@
 
 =====>>> 게임 설치 <<<=====
 
-파일 다운로드 후 Air War_Install 폴더를 엽니다.
+파일 다운로드 후 압축 파일을 푸세요.
 
-Air War_Install 폴더를 연 후 Release 폴더를 엽니다.
+Air War 폴더 안에 Air War_Install 폴더를 연 후 Release 폴더를 엽니다.
 
 setup 프로그램을 클릭하여 게임 설치를 진행합니다.
 
